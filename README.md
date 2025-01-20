@@ -48,7 +48,7 @@ To run this project, follow these steps:
     <td><img src="df_plots/Figure_10.png" alt="Class Distribution" style="width:100%;"></td>
     <td><img src="df_plots/Figure_5.png" alt="Correlation Matrix" style="width:100%;"></td>
   </tr>
-  <tr style="background-color: #f0f0f0;">
+  <tr style="background-color: #f0f0f0 !important;">
     <td>**Data Distribution**</td>
     <td>**Feature Distributions (Boxplot)**</td>
   </tr>
