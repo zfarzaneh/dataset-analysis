@@ -38,15 +38,9 @@ To run this project, follow these steps:
 ## Results and Visualizations
 
 ### Plots
-<style>
-  .gray-cell {
-    background-color: #f0f0f0; 
-    padding: 10px;
-    border: 1px solid #ddd;
-  }
-</style>
-<table class="gray-table">
-  <tr class="gray-cell"> 
+
+<table >
+  <tr > 
     <td style="background-color: #f0f0f0;">**Class Distribution**</td>
     <td style="background-color: #f0f0f0;">**Correlation Matrix**</td>
   </tr>
