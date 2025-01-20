@@ -36,3 +36,19 @@ To run this project, follow these steps:
    ```bash
    git clone https://github.com/zfarzaneh/dataset-analysis.git
 
+## Results and Visualizations
+
+### Class Distribution
+![Class Distribution](df_plots/Figure_10.png)
+
+### Correlation Matrix
+![Correlation Matrix](df_plots/Figure_5.png)
+
+### Data Distribution
+![Data Distribution](df_plots/Figure_11.png) 
+
+### Feature Distributions (Boxplot)
+![Feature Distributions (Boxplot)](df_plots/Figure_8.png)
+
+### Q-Q Plots for Dataset Columns
+![Q-Q Plots for Dataset Columns](df_plots/Figure_3.png) 
