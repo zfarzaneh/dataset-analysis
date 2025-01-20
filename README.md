@@ -37,29 +37,18 @@ To run this project, follow these steps:
 
 ## Results and Visualizations
 
-
-<style>
-  .gray-table {
-    background-color: #f0f0f0; /* خاکستری روشن */
-    border-collapse: collapse;
-    width: 100%;
-  }
-  .gray-table td {
-    padding: 10px;
-    border: 1px solid #ddd;
-  }
-</style>
+### Plots
 
 <table class="gray-table">
   <tr>
-    <td>**Class Distribution**</td>
-    <td>**Correlation Matrix**</td>
+    <td style="background-color: #f0f0f0;">**Class Distribution**</td>
+    <td style="background-color: #f0f0f0;">**Correlation Matrix**</td>
   </tr>
   <tr>
     <td><img src="df_plots/Figure_10.png" alt="Class Distribution" style="width:100%;"></td>
     <td><img src="df_plots/Figure_5.png" alt="Correlation Matrix" style="width:100%;"></td>
   </tr>
-  <tr>
+  <tr style="background-color: #f0f0f0;">
     <td>**Data Distribution**</td>
     <td>**Feature Distributions (Boxplot)**</td>
   </tr>
@@ -68,8 +57,8 @@ To run this project, follow these steps:
     <td><img src="df_plots/Figure_8.png" alt="Feature Distributions (Boxplot)" style="width:100%;"></td>
   </tr>
   <tr>
-    <td>**Q-Q Plots for Dataset Columns**</td>
-    <td>**Skewness Distribution of All Numerical Features**</td>
+    <td style="background-color: #f0f0f0;">**Q-Q Plots for Dataset Columns**</td>
+    <td style="background-color: #f0f0f0;">**Skewness Distribution of All Numerical Features**</td>
   </tr>
   <tr>
     <td><img src="df_plots/Figure_3.png" alt="Q-Q Plots for Dataset Columns" style="width:100%;"></td>
