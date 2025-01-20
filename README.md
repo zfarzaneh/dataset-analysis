@@ -38,9 +38,15 @@ To run this project, follow these steps:
 ## Results and Visualizations
 
 ### Plots
-
+<style>
+  .gray-cell {
+    background-color: #f0f0f0; /* خاکستری روشن */
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+</style>
 <table class="gray-table">
-  <tr>
+  <tr class="gray-cell"> 
     <td style="background-color: #f0f0f0;">**Class Distribution**</td>
     <td style="background-color: #f0f0f0;">**Correlation Matrix**</td>
   </tr>
@@ -48,7 +54,7 @@ To run this project, follow these steps:
     <td><img src="df_plots/Figure_10.png" alt="Class Distribution" style="width:100%;"></td>
     <td><img src="df_plots/Figure_5.png" alt="Correlation Matrix" style="width:100%;"></td>
   </tr>
-  <tr style="background-color: #f0f0f0 !important;">
+  <tr style="background-color: #f0f0f0;">
     <td>**Data Distribution**</td>
     <td>**Feature Distributions (Boxplot)**</td>
   </tr>
