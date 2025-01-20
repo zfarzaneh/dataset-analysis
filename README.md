@@ -40,7 +40,7 @@ To run this project, follow these steps:
 ### Plots
 <style>
   .gray-cell {
-    background-color: #f0f0f0; /* خاکستری روشن */
+    background-color: #f0f0f0; 
     padding: 10px;
     border: 1px solid #ddd;
   }
