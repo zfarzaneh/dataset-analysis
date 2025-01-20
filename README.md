@@ -38,17 +38,44 @@ To run this project, follow these steps:
 ## Results and Visualizations
 
 
-| **Class Distribution** | **Correlation Matrix** |
-|------------------------|------------------------|
-| ![Class Distribution](df_plots/Figure_10.png) | ![Correlation Matrix](df_plots/Figure_5.png) |
+<style>
+  .gray-table {
+    background-color: #f0f0f0; /* خاکستری روشن */
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .gray-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+</style>
 
-| **Data Distribution** | **Feature Distributions (Boxplot)** |
-|-----------------------|-------------------------------------|
-| ![Data Distribution](df_plots/Figure_11.png) | ![Feature Distributions (Boxplot)](df_plots/Figure_8.png) |
-
-| **Q-Q Plots for Dataset Columns** | **Skewness Distribution of All Numerical Features** |
-|-----------------------------------|----------------------------------------------------|
-| ![Q-Q Plots for Dataset Columns](df_plots/Figure_3.png) | ![Skewness Distribution of All Numerical Features](df_plots/Figure_2.png) |
+<table class="gray-table">
+  <tr>
+    <td>**Class Distribution**</td>
+    <td>**Correlation Matrix**</td>
+  </tr>
+  <tr>
+    <td><img src="df_plots/Figure_10.png" alt="Class Distribution" style="width:100%;"></td>
+    <td><img src="df_plots/Figure_5.png" alt="Correlation Matrix" style="width:100%;"></td>
+  </tr>
+  <tr>
+    <td>**Data Distribution**</td>
+    <td>**Feature Distributions (Boxplot)**</td>
+  </tr>
+  <tr>
+    <td><img src="df_plots/Figure_11.png" alt="Data Distribution" style="width:100%;"></td>
+    <td><img src="df_plots/Figure_8.png" alt="Feature Distributions (Boxplot)" style="width:100%;"></td>
+  </tr>
+  <tr>
+    <td>**Q-Q Plots for Dataset Columns**</td>
+    <td>**Skewness Distribution of All Numerical Features**</td>
+  </tr>
+  <tr>
+    <td><img src="df_plots/Figure_3.png" alt="Q-Q Plots for Dataset Columns" style="width:100%;"></td>
+    <td><img src="df_plots/Figure_2.png" alt="Skewness Distribution of All Numerical Features" style="width:100%;"></td>
+  </tr>
+</table>
 
 
 **To view more plots, please refer to the [df_plots](df_plots/) folder**
