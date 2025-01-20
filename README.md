@@ -39,7 +39,6 @@ To run this project, follow these steps:
 
 
 |**Class Distribution** | **Correlation Matrix** |
-|------------|------------|
 | ![Class Distribution](df_plots/Figure_10.png) | ![Correlation Matrix](df_plots/Figure_5.png) |
 | **Data Distribution** |  **Feature Distributions (Boxplot)** |
 | ![Data Distribution](df_plots/Figure_11.png) | ![Feature Distributions (Boxplot)](df_plots/Figure_8.png) |
